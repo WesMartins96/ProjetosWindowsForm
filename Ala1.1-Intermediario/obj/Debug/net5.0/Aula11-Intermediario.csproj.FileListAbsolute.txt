@@ -1,0 +1,16 @@
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\bin\Debug\net5.0\Aula11-Intermediario.exe
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\bin\Debug\net5.0\Aula11-Intermediario.deps.json
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\bin\Debug\net5.0\Aula11-Intermediario.runtimeconfig.json
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\bin\Debug\net5.0\Aula11-Intermediario.runtimeconfig.dev.json
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\bin\Debug\net5.0\Aula11-Intermediario.dll
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\bin\Debug\net5.0\Aula11-Intermediario.pdb
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\Aula11-Intermediario.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\Aula11-Intermediario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\Aula11-Intermediario.AssemblyInfoInputs.cache
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\Aula11-Intermediario.AssemblyInfo.cs
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\Aula11-Intermediario.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\Aula11-Intermediario.dll
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\refint\Aula11-Intermediario.dll
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\Aula11-Intermediario.pdb
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\Aula11-Intermediario.genruntimeconfig.cache
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\Ala1.1-Intermediario\obj\Debug\net5.0\ref\Aula11-Intermediario.dll

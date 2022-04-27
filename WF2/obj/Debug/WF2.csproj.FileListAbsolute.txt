@@ -1,0 +1,12 @@
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\bin\Debug\WF2.exe.config
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\bin\Debug\WF2.exe
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\bin\Debug\WF2.pdb
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\obj\Debug\WF2.csproj.AssemblyReference.cache
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\obj\Debug\WF2.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\obj\Debug\WF2.Form1.resources
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\obj\Debug\WF2.InfoCliente.resources
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\obj\Debug\WF2.Properties.Resources.resources
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\obj\Debug\WF2.csproj.GenerateResource.cache
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\obj\Debug\WF2.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\obj\Debug\WF2.exe
+C:\Users\wesle\Desktop\CastGroup\CSharpIntermediario\CSharp-Intermediario\WF2\obj\Debug\WF2.pdb
